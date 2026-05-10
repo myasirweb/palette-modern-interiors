@@ -116,4 +116,4 @@ palette/
 
 ## License
 
-© 2025 Muhammad Yasir. All rights reserved.
+© 2026 Muhammad Yasir. All rights reserved.
